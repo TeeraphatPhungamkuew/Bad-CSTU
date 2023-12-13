@@ -8,11 +8,31 @@ Badmintion.
 - ตารางแข่งคร่าวๆ
     -ใช้เวลาวันละประมาณ 1.30ชม 
     
-  | 22 มกรา      เดี่ยว1 vs เดี่ยว2 , เดี่ยว3 vs เดี่ยว4   
-  | 23 มกรา      ทีม1 vs ทีม2, ทีม3 vs ทีม4   
-  | 24 มกรา      เดี่ยว1 vs เดี่ยว3, ทีม 1 vs ทีม3
-  *เพิ่มทีมอาจารย์ เพิ่มทีมเดี่่ยวหญิง
-  *ทำตารางเพิ่มด้วย ตัว final
+| Day 1 Matches   | Men's Singles      | Women's Singles | Mixed Doubles | Student-Professor Doubles |
+|-----------------|--------------------|-----------------|---------------|---------------------------|
+| Match 1         | Team 1 vs. Team 2  | -               | -             | -                         |
+| Match 2         | Team 3 vs. Team 4  | -               | -             | -                         |
+
+| Day 2 Matches   | Men's Singles | Women's Singles    | Mixed Doubles   | Student-Professor Doubles |
+|-----------------|---------------|--------------------|-----------------|---------------------------|
+| Match 3         | -             | Team 1 vs. Team 2  | -               | -                         |
+| Match 4         | -             | Team 3 vs. Team 4  | -               | -                         |
+
+| Day 3 Matches   | Men's Singles | Women's Singles | Mixed Doubles  | Student-Professor Doubles |
+|-----------------|---------------|-----------------|----------------|---------------------------|
+| Match 5         | -             | -               | Team 1/Team 2  | -                         |
+| Match 6         | -             | -               | Team 3/Team 4  | -                         |
+
+| Day 4 Matches         | Men's Singles | Women's Singles | Mixed Doubles | Student-Professor Doubles               |
+|-----------------------|---------------|-----------------|---------------|-----------------------------------------|
+| Match 7 (Finals)      | -             | -               | -             | Winner of Match 5 vs. Winner of Match 6 |
+| Match 8 (Third Place) | -             | -               | -             | Loser of Match 5 vs. Loser of Match 6   |
+
+
+
+
+
+
 - อุปกรณ์ (ก็คือแบบพวกไม้ตีแบดลูกแบดคือที่เกี่ยวกับการตีแบตอ่ะ)
     - ซื้อลูกแบต
     - ไม้แบต นำมาเอง
@@ -20,4 +40,4 @@ Badmintion.
     - แต่งตัวชุดกีฬา
 - ระยะเวลา (ที่ใช้ตีในแต่ละวันและในแต่ละคู่ในแต่ละเดี่ยว)
     - แข่ง 2 ใน 3
-    - test
+    - ใช้เวลาแข่งคู่ละประมาณ 1 ชั่วโมง
