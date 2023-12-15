@@ -18,10 +18,15 @@ Badmintion.
 | Match 6         |               |               | Team 3/Team 4  |
 
 
-| Day 2 Matches   | Men's Singles | Women's Singles    | Mixed Doubles   | Student-Professor Doubles |
-|-----------------|---------------|--------------------|-----------------|---------------------------|
-| Match 3         | -             | Team 1 vs. Team 2  | -               | -                         |
-| Match 4         | -             | Team 3 vs. Team 4  | -               | -                         |
+| Day 2 Matches   | Men's Singles | Women's Singles | Mixed Doubles |
+|-----------------|---------------|-----------------|---------------|
+| Match 7 (Ranking Match) | Winner of Match 1 vs. Winner of Match 2 |               |               |
+| Match 8 (Ranking Match) | Loser of Match 1 vs. Loser of Match 2   |               |               |
+| Match 9 (Ranking Match) |                                          |Winner of Match 3 vs. Winner of Match 4               |               |
+| Match 10 (Ranking Match)|    | Loser of Match 3 vs. Loser of Match 4              |               |
+| Match 11 (Ranking Match)|  |               |        Winner of Match 5 vs. Winner of Match 6       |
+| Match 12 (Ranking Match)|    |               |Loser of Match 5 vs. Loser of Match 6              |
+
 
 | Day 3 Matches   | Men's Singles | Women's Singles | Mixed Doubles  | Student-Professor Doubles |
 |-----------------|---------------|-----------------|----------------|---------------------------|
