@@ -8,10 +8,15 @@ Badmintion.
 - ตารางแข่งคร่าวๆ
     -ใช้เวลาวันละประมาณ 1.30ชม 
     
-| Day 1 Matches   | Men's Singles      | Women's Singles | Mixed Doubles | Student-Professor Doubles |
-|-----------------|--------------------|-----------------|---------------|---------------------------|
-| Match 1         | Team 1 vs. Team 2  | -               | -             | -                         |
-| Match 2         | Team 3 vs. Team 4  | -               | -             | -                         |
+| Day 1 Matches   | Men's Singles | Women's Singles | Mixed Doubles |
+|-----------------|---------------|-----------------|---------------|
+| Match 1         | Team 1 vs. Team 2  |               |               |
+| Match 2         | Team 3 vs. Team 4  |               |               |
+| Match 3         |               | Team 1 vs. Team 2  |               |
+| Match 4         |               | Team 3 vs. Team 4  |               |
+| Match 5         |               |               | Team 1/Team 2  |
+| Match 6         |               |               | Team 3/Team 4  |
+
 
 | Day 2 Matches   | Men's Singles | Women's Singles    | Mixed Doubles   | Student-Professor Doubles |
 |-----------------|---------------|--------------------|-----------------|---------------------------|
