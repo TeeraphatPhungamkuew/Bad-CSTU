@@ -1,7 +1,7 @@
 # Bad-CSTU
 Badmintion.
 - วันไหน
-    - 22-26 มกรา
+    - 22-25 มกรา
 - ประเภททีม กี่คู่ แข่งยังไง?
     - เดี่ยว + ทีมผสม
     - ทีมอาจารย์ + นศ
@@ -34,15 +34,7 @@ Badmintion.
 | Match 12 (Ranking Match)|                                         |                                        |Loser of Match 5 vs. Loser of Match 6  |-|
 
 
-
-| Day 3 Matches           | Men's Singles                           | Women's Singles                          | Mixed Doubles                             |Student-Professor Doubles|
-|-------------------------|-----------------------------------------|------------------------------------------|-------------------------------------------|-|
-| Match 13 (Championship) | Winner of Match 7 vs. Winner of Match 8 | -                                        | -                                         |-|
-| Match 14 (Championship) | -                                       | Winner of Match 9 vs. Winner of Match 10 | -                                         |-|
-| Match 15 (Championship) | -                                       | -                                        | Winner of Match 11 vs. Winner of Match 12 |-|
-
-
-| Day 4 Matches         | Men's Singles | Women's Singles | Mixed Doubles | Student-Professor Doubles               |
+| Day 3 Matches         | Men's Singles | Women's Singles | Mixed Doubles | Student-Professor Doubles               |
 |-----------------------|---------------|-----------------|---------------|-----------------------------------------|
 | Match 16              | -             | -               | -             | rank 1 vs. rank 2                       |
 | Match 17              | -             | -               | -             | rank 3 vs. rank 4                       |
